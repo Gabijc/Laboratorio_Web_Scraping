@@ -1,6 +1,7 @@
 import requests # type: ignore
 from bs4 import BeautifulSoup # type: ignore
 import csv
+import pandas as pd
 
 # Vamos a crear una función que permite obtener información de algo que busquemos en wikipedia mediante el webscraping
 
@@ -34,13 +35,24 @@ def extraer_datos_wiki(url):
     for tabla in tablas: 
         filas = tabla.find_all("tr") # Encontramos todas las filas de cada tabla
         for fila in filas[1:]:
+
             columnas = fila.find_all("td") # Encontramos todas las celdas de cada tabla
-            if len(columnas) >= 5:
+            
+            if len(columnas) == 6:
+                nombre = columnas[2].get_text(strip = True) # Extraemos y limpiamos el texto de la celda correspondiente
+                inicio = columnas[3].get_text(strip = True)
+                fin = columnas[3].get_text(strip = True)
+                emperadores.append({"nombre": nombre, "inicio": inicio, "fin": fin})
+            elif len(columnas) == 7:
+                nombre = columnas[2].get_text(strip = True) # Extraemos y limpiamos el texto de la celda correspondiente
+                inicio = columnas[3].get_text(strip = True)
+                fin = columnas[3].get_text(strip = True)
+                emperadores.append({"nombre": nombre, "inicio": inicio, "fin": fin})
+            elif len(columnas) == 8:
                 nombre = columnas[2].get_text(strip = True) # Extraemos y limpiamos el texto de la celda correspondiente
                 inicio = columnas[3].get_text(strip = True)
                 fin = columnas[4].get_text(strip = True)
                 emperadores.append({"nombre": nombre, "inicio": inicio, "fin": fin})
-
     # Creamos el código para guardar el csv la información extraída
     campos = ["nombre", "inicio", "fin"]
     with open("emperadores_romanos.csv", "w", encoding = "utf-8") as archivo:

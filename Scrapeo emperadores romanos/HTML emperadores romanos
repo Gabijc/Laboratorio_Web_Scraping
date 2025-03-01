@@ -7,10 +7,10 @@
   </title>
   <script>
    (function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )eswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
-"wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"e1480289-0869-4eda-81d7-7545a1341325","wgCanonicalNamespace":"Anexo","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":104,"wgPageName":"Anexo:Emperadores_romanos","wgTitle":"Emperadores romanos","wgCurRevisionId":164728986,"wgRevisionId":164728986,"wgArticleId":38709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Emperadores de la Antigua Roma","Gobierno del Imperio romano","Anexos:Emperadores"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Anexo:Emperadores_romanos","wgRelevantArticleId":38709,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgMediaViewerOnClick":true,
-"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"wgRelatedArticlesCompat":[],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q125740","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready",
-"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns",
-"ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints"];
+"wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"922f5ce4-de38-42b0-9d8b-eff40bd4cf41","wgCanonicalNamespace":"Anexo","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":104,"wgPageName":"Anexo:Emperadores_romanos","wgTitle":"Emperadores romanos","wgCurRevisionId":165187330,"wgRevisionId":165187330,"wgArticleId":38709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Emperadores de la Antigua Roma","Gobierno del Imperio romano","Anexos:Emperadores"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Anexo:Emperadores_romanos","wgRelevantArticleId":38709,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q125740","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions",
+"wikibase.client.vector-2022","ext.checkUser.clientHints"];
   </script>
   <script>
    (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -25,7 +25,7 @@
   <noscript>
    <link href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
   </noscript>
-  <meta content="MediaWiki 1.44.0-wmf.12" name="generator"/>
+  <meta content="MediaWiki 1.44.0-wmf.16" name="generator"/>
   <meta content="origin" name="referrer"/>
   <meta content="origin-when-cross-origin" name="referrer"/>
   <meta content="max-image-preview:standard" name="robots"/>
@@ -137,6 +137,13 @@
               <a href="/wiki/Wikipedia:Informes_de_error">
                <span>
                 Notificar un error
+               </span>
+              </a>
+             </li>
+             <li class="mw-list-item" id="n-specialpages">
+              <a href="/wiki/Especial:P%C3%A1ginasEspeciales">
+               <span>
+                Páginas especiales
                </span>
               </a>
              </li>
@@ -1009,7 +1016,7 @@
             </a>
            </li>
            <li class="interlanguage-link interwiki-lij mw-list-item">
-            <a class="interlanguage-link-target" data-language-autonym="Ligure" data-language-local-name="Ligurian" data-title="Lista di Imperatoî Romen" href="https://lij.wikipedia.org/wiki/Lista_di_Imperato%C3%AE_Romen" hreflang="lij" lang="lij" title="Lista di Imperatoî Romen – Ligurian">
+            <a class="interlanguage-link-target" data-language-autonym="Ligure" data-language-local-name="ligur" data-title="Lista di Imperatoî Romen" href="https://lij.wikipedia.org/wiki/Lista_di_Imperato%C3%AE_Romen" hreflang="lij" lang="lij" title="Lista di Imperatoî Romen – ligur">
              <span>
               Ligure
              </span>
@@ -1423,15 +1430,8 @@
                    </span>
                   </a>
                  </li>
-                 <li class="mw-list-item" id="t-specialpages">
-                  <a accesskey="q" href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]">
-                   <span>
-                    Páginas especiales
-                   </span>
-                  </a>
-                 </li>
                  <li class="mw-list-item" id="t-permalink">
-                  <a href="/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=164728986" title="Enlace permanente a esta versión de la página">
+                  <a href="/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=165187330" title="Enlace permanente a esta versión de la página">
                    <span>
                     Enlace permanente
                    </span>
@@ -1445,7 +1445,7 @@
                   </a>
                  </li>
                  <li class="mw-list-item" id="t-cite">
-                  <a href="/w/index.php?title=Especial:Citar&amp;page=Anexo%3AEmperadores_romanos&amp;id=164728986&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página">
+                  <a href="/w/index.php?title=Especial:Citar&amp;page=Anexo%3AEmperadores_romanos&amp;id=165187330&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página">
                    <span>
                     Citar esta página
                    </span>
@@ -18189,13 +18189,13 @@
           </div>
           <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐55d995bd96‐w95tp
-Cached time: 20250118160809
+Parsed by mw‐web.eqiad.main‐868759585b‐fdcms
+Cached time: 20250215153431
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.816 seconds
-Real time usage: 1.028 seconds
+CPU time usage: 0.802 seconds
+Real time usage: 1.001 seconds
 Preprocessor visited node count: 24711/1000000
 Post‐expand include size: 156372/2097152 bytes
 Template argument size: 76199/2097152 bytes
@@ -18203,24 +18203,24 @@ Highest expansion depth: 13/100
 Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 245197/5000000 bytes
-Lua time usage: 0.109/10.000 seconds
+Lua time usage: 0.115/10.000 seconds
 Lua memory usage: 2223292/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
           <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  632.387      1 -total
- 35.27%  223.042    229 Plantilla:Refn
- 35.00%  221.313    216 Plantilla:Sfn
- 21.32%  134.843      2 Plantilla:Lista_de_columnas
- 16.59%  104.944      1 Plantilla:Control_de_autoridades
- 13.69%   86.565     32 Plantilla:Cita_libro
-  1.64%   10.353      4 Plantilla:Efn
-  1.42%    8.949      1 Plantilla:Cita
-  1.41%    8.914      5 Plantilla:Cita_publicación
-  1.38%    8.722      3 Plantilla:Cita_web
+100.00%  589.327      1 -total
+ 34.84%  205.311    229 Plantilla:Refn
+ 34.69%  204.428    216 Plantilla:Sfn
+ 22.54%  132.840      2 Plantilla:Lista_de_columnas
+ 14.36%   84.642     32 Plantilla:Cita_libro
+ 13.24%   78.042      1 Plantilla:Control_de_autoridades
+  1.68%    9.877      3 Plantilla:Cita_web
+  1.65%    9.730      4 Plantilla:Efn
+  1.61%    9.468      5 Plantilla:Cita_publicación
+  1.53%    8.995      1 Plantilla:Cita
 -->
-          <!-- Saved in parser cache with key eswiki:pcache:38709:|#|:idhash:canonical and timestamp 20250118160809 and revision id 164728986. Rendering was triggered because: page-view
+          <!-- Saved in parser cache with key eswiki:pcache:38709:|#|:idhash:canonical and timestamp 20250215153431 and revision id 165187330. Rendering was triggered because: page-view
  -->
          </meta>
         </div>
@@ -18230,8 +18230,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </noscript>
         <div class="printfooter" data-nosnippet="">
          Obtenido de «
-         <a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=164728986">
-          https://es.wikipedia.org/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=164728986
+         <a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=165187330">
+          https://es.wikipedia.org/w/index.php?title=Anexo:Emperadores_romanos&amp;oldid=165187330
          </a>
          »
         </div>
@@ -18268,7 +18268,7 @@ Transclusion expansion time report (%,ms,calls,template)
      <footer class="mw-footer" id="footer">
       <ul id="footer-info">
        <li id="footer-info-lastmod">
-        Esta página se editó por última vez el 12 ene 2025 a las 20:24.
+        Esta página se editó por última vez el 4 feb 2025 a las 11:11.
        </li>
        <li id="footer-info-copyright">
         El texto está disponible bajo la
@@ -18337,12 +18337,15 @@ Transclusion expansion time report (%,ms,calls,template)
       <ul class="noprint" id="footer-icons">
        <li id="footer-copyrightico">
         <a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://wikimediafoundation.org/">
-         <img alt="Wikimedia Foundation" height="29" loading="lazy" src="/static/images/footer/wikimedia-button.svg" width="84"/>
+         <img alt="Wikimedia Foundation" height="29" lang="en" loading="lazy" src="/static/images/footer/wikimedia-button.svg" width="84"/>
         </a>
        </li>
        <li id="footer-poweredbyico">
         <a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://www.mediawiki.org/">
-         <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/w/resources/assets/poweredby_mediawiki.svg" width="88"/>
+         <picture>
+          <source height="31" media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88"/>
+          <img alt="Powered by MediaWiki" height="25" loading="lazy" src="/w/resources/assets/mediawiki_compact.svg" width="25"/>
+         </picture>
         </a>
        </li>
       </ul>
@@ -18484,7 +18487,7 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul>
   </div>
   <script>
-   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-55d995bd96-jfl26","wgBackendResponseTime":144,"wgPageParseReport":{"limitreport":{"cputime":"0.816","walltime":"1.028","ppvisitednodes":{"value":24711,"limit":1000000},"postexpandincludesize":{"value":156372,"limit":2097152},"templateargumentsize":{"value":76199,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":245197,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  632.387      1 -total"," 35.27%  223.042    229 Plantilla:Refn"," 35.00%  221.313    216 Plantilla:Sfn"," 21.32%  134.843      2 Plantilla:Lista_de_columnas"," 16.59%  104.944      1 Plantilla:Control_de_autoridades"," 13.69%   86.565     32 Plantilla:Cita_libro","  1.64%   10.353      4 Plantilla:Efn","  1.42%    8.949      1 Plantilla:Cita","  1.41%    8.914      5 Plantilla:Cita_publicación","  1.38%    8.722      3 Plantilla:Cita_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":2223292,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-55d995bd96-w95tp","timestamp":"20250118160809","ttl":2592000,"transientcontent":false}}});});
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-868759585b-5snk2","wgBackendResponseTime":119,"wgPageParseReport":{"limitreport":{"cputime":"0.802","walltime":"1.001","ppvisitednodes":{"value":24711,"limit":1000000},"postexpandincludesize":{"value":156372,"limit":2097152},"templateargumentsize":{"value":76199,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":245197,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  589.327      1 -total"," 34.84%  205.311    229 Plantilla:Refn"," 34.69%  204.428    216 Plantilla:Sfn"," 22.54%  132.840      2 Plantilla:Lista_de_columnas"," 14.36%   84.642     32 Plantilla:Cita_libro"," 13.24%   78.042      1 Plantilla:Control_de_autoridades","  1.68%    9.877      3 Plantilla:Cita_web","  1.65%    9.730      4 Plantilla:Efn","  1.61%    9.468      5 Plantilla:Cita_publicación","  1.53%    8.995      1 Plantilla:Cita"]},"scribunto":{"limitreport-timeusage":{"value":"0.115","limit":"10.000"},"limitreport-memusage":{"value":2223292,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-868759585b-fdcms","timestamp":"20250215153431","ttl":2592000,"transientcontent":false}}});});
   </script>
  </body>
 </html>
