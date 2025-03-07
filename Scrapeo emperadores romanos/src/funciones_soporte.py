@@ -21,7 +21,7 @@ def info_df(dataframe):
 def limpieza_caracteres(dataframe, columna):
     # Eliminamos los elementos invisibles de los caracteres que lo contienen
     dataframe[columna] = dataframe[columna].apply(lambda x: x.replace("\u200b", "") if "\u200b" in x else x)
-    elementos = ["[a]","[d]","[o]","[p]","[w]","[y]","[aa]","[ae]","[m]", "[ab]", "c.", "c. ", "¿", "?","[r]", "[n]", "[z]", "[ac]", "[ad]","(en Italia)"]
+    elementos = ["[a]","[d]","[o]","[p]","[w]","[y]","[aa]","[ae]","[m]", "[ab]", "c.", "c. ", "¿", "?","[r]", "[n]", "[z]", "[ac]", "[ad]","(en Italia)", "a.C."]
     for i in elementos:
 	    dataframe[columna] = dataframe[columna].apply(lambda x: x.replace(i, "") if i in x else x)
 
